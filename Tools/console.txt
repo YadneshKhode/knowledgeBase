@@ -1,0 +1,4 @@
+1) open console press esc key bottom left click 3 dots go to 
+rendering and click on paint flashing to know which react components 
+are rendered when we interact with page
+

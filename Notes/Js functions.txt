@@ -1,0 +1,25 @@
+ filter
+ map
+ find
+ some
+ every
+ reduce
+ includes
+ Array.from
+forEach
+.target
+.classList
+preventDefault
+dragover
+draggable
+dragstart
+dragend
+querySelector doesnt return array to convert it to array use
+[...xyz.querySelectorAll()];
+clientY
+
+
+
+e.target.matches
+e.target.closest
+

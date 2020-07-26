@@ -1,0 +1,46 @@
+display
+position
+animation
+transform translate
+transition
+border-image
+inline-flex
+border-bottom-width
+border-image-slice
+z-index
+order	
+boot strap
+selective bootstrap inclusion in css
+!important
+reset style sheet
+overflow
+visibility
+~ sign
+backface-visibility
+box shadow
+if position absolute parent should be anything but static
+background-position: center
+clip-path
+filter: blur
+trans-form translate perspective
+
+
+transform rotate z
+linear gradient
+mix blend mode
+Materialise css
+semantic UI
+
+
+Single Responsibility Principle
+Open Closed Principle
+Liskov Substitution Principle
+Interface Segregation Principle
+Dependency Inversion Principle
+
+
+
+
+
+
+scrollHeight in js

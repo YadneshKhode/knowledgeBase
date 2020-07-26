@@ -1,0 +1,6 @@
+1) Redux DevTools + npm package redux-dev-tools extension
+   Codevolution React-redux series video no. 24
+2) eyedropper
+3) React Developer tools
+4) Page ruler redux
+5) scratch js 

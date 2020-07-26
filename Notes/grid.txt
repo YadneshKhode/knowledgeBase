@@ -1,0 +1,54 @@
+https://www.youtube.com/watch?v=t6CBKf8K_Ac&t=768s
+
+
+For people having issues with images not fitting into the grid, Per somehow forgets to add that you need to apply the following properties to the img tag
+
+.container > div > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+*****************************************************
+always use auto-fit and minmax 
+
+
+grid-template-columns: repeat(auto-fill,minmax(100px,1fr));
+grid-auto-rows:100px
+grid-auto-flow: row or dense(dense is preferred)
+
+
+https://www.youtube.com/watch?v=t6CBKf8K_Ac&t=768s
+
+watch this from 30 min
+
+
+*****************************************************
+
+
+grid-template-areas :"map"
+.header{
+grid-area : h;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+display: grid
+grid-template-rows
+grid-template-columns
+grid-template: repeat(2,50px) this is row / repeat(3,1fr) this is for column
+
+range is from 1 to  no of column + 1 or use -1 for end or use span(how many column should it span)
+grid-column-start:
+grid-column-end
+
+or
+grid-column:  this is start / this is end

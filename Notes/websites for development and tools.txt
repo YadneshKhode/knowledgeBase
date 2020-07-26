@@ -1,0 +1,37 @@
+********************************
+WEBSITES
+********************************
+
+***********
+https://dev.to/joserfelix/40-high-quality-free-resources-for-web-development-10o3
+************
+https://devhints.io/
+https://ihateregex.io/expr/phone
+https://www.shapedivider.app/
+https://animista.net/play/basic/flip-2
+https://devdocs.io/css/transform-function/rotatez
+
+
+
+
+
+https://source.unsplash.com/
+
+
+https://tailwindcss.com/docs/box-sizing
+
+to understand above links watch this video
+
+https://youtu.be/ghZZB_7HFS8
+********************************
+fonts
+********************************
+
+
+https://fonts.google.com/
+********************************
+TOOLS
+********************************
+https://cubic-bezier.com/#.17,.67,.83,.67
+Page ruler redux
+Eye dropper

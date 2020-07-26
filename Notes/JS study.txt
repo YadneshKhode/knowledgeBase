@@ -1,0 +1,49 @@
+Here is the list of changes and added functionality in ES6++ (which are major and imp. changes to know) :
+
+1. In ES6++, you can define block-scope variables and In ES5, variables are function scoped.
+
+2. ES6++ supports constant, i.e., immutable variables
+
+3. You can define scoped block using { }.   (No need for ugly IIFEs, which were necessary in ES5)
+
+4. ES6++ supports string interpolation via template literals
+
+5. ES6++ supports multi-line strings
+
+6. Default, Rest, Spread Parameters
+
+7. Arrow function
+
+8. Destructuring
+
+9. ES6++ supports binary and octal notations for integers (Oo , Ob)
+
+10. In ES6++, you can use y (stick flag) in regex
+
+11. In ES6++, the Array has two new static methods for creating an array [ Array.from()  and Array.of() ]
+
+12. In ES6++, you can use for-of to iterate over elements
+
+13. In ES6++, array has entries() method
+
+14. Arrays also has keys(), values() , find() , findIndex(), copyWithin(), fill(), methods 
+
+15. In Es6++, you can create an array with holes
+
+16. In es6++, you can use simpler syntax of methods in object literals
+
+17. Es6++, allows you to define computed property names in object literals 
+
+18. Es6++, has new primitive type called Symbols. 
+
+18. Es6++, has full support for classes -- the class keyword 
+
+19. ES6++, introduces four new collection classes : Map, WeakMap, Set, WeakSet
+
+20. Es6++, supports the concept of iterable data structures . Some iterable data strutures are : Arrays and Typed Arrays , Strings, Maps, Sets, DOM data structures, Promises, Your own custom type
+
+21. In es6, modules are supported directly in a language
+
+22. Promise, async/await
+
+For detail explanation check the documentation.
